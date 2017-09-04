@@ -1,2 +1,13 @@
-# Automatic_header42
-Petit script qui vous permet d'ajouter un header 42 à votre fichier.
+## Automatic_header42
+# Petit script écrit en Python🐍 qui vous permet d'ajouter un header 42 à votre fichier.
+
+------
+
+**Usage** : nom_utilisateur chemin_du_fichier
+
+------
+# Amélioration à venir:
+
+
+>Interface
+>Prise en comptes de plusieurs fichiers à la fois.
