@@ -6,7 +6,7 @@
 **Usage** : nom_utilisateur chemin_du_fichier
 
 ------
-# Amélioration à venir:
+# Améliorations à venir:
 
 
 >Interface</br>
