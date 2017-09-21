@@ -9,7 +9,6 @@ import datetime as dt
 if len(sys.argv) != 3:
     sys.exit("Usage : " + os.path.basename(sys.argv[0]) + " 1)username 2)file.c(with absolute path)")
 
-# "/Users/zaynah94/Desktop/ft_ls/libft/ft_bzero.c"
 filename = sys.argv[2]
 
 # create date ,username, mail, username and file_name
